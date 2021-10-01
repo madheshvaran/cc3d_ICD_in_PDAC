@@ -1,3 +1,6 @@
-### CC3D Hackathron 
-Topic: ICD in PDAC  
-The tool has been published and can be accessed from Nanohub
+### A toy model of immune responses to an immunogenic cancer
+
+#### Abstract:
+Radiotherapy (RT) is a central component of cancer treatment that potently induces tumor cell death and provides a broad contribution (about 40%) towards tumor cures. Radiation causes cell death in highly replicating tumor cells via breaking DNA double-strand breaks. Cancer-cell apoptosis after radiation treatment can trigger an immune response incorporating a complex set of molecular and cellular mechanisms. These include pro- and anti-inflammatory responses that involve several components of innate and adaptive immune systems. Using CompuCell 3D (CC3D) package, we developed a basic and generic multi-scale model of the immune response following a cytotoxic intervention in avascular tumors. The model consists of agent based modeling (ABM) for the dynamics of cellular components and PDEs for the diffusion of molecular elements. The complex phenomenon is substantially simplified in our toy model by considering a single nutrient and one damage-associated molecular pattern (DAMP).  Our model simplifies the observed biological phenomenon as follows: DAMP released by apoptotic tumor cells creates a gradient that recruits immune cells towards it. All the response mechanisms are also summarized into two representative groups of pro- and anti-inflammatory responses. The recruitment of immune cells along with the tumor cells creates a microenvironment consisting of pro- and anti-inflammatory responses whose balance determines the subsequent fate of the system, either towards complete remission or towards relapse and further tumor proliferation. Despite its simplicity, the model can reproduce some general aspects of tumor growth and immune-mediated therapy responses.  
+
+The tool can be accessed via nanoHub.    
